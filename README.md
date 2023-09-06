@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dotada
 - 👀 I’m interested in learning technology related stuff.
 - 🌱 I’m currently learning C#, Rust and Javascript
-- 💞️ I’m looking to collaborate on dejacoin.
+- 💞️ I’m looking to collaborate on nothing atm.
 - 📫 You can reach me via discord DEJA_FLOPPA#9335
 
 <!---
